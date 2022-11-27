@@ -16,6 +16,7 @@ life expectancy as the observations in this dataset are based on multiple countr
 in order to effectively raise the population's life expectancy.
 
 **AIM**
+
 The data-set aims to answer the following key questions:
 1. Do all the features available in the dataset really affect the Life expectancy? What are the predictingvariables actually affecting the life expectancy?
 2. Should a country having a lower life expectancy value(<65) increase its healthcare expenditure in order
@@ -30,5 +31,6 @@ to improve its average lifespan?
 
 
 Presentation for the Analysis can be accesed using the below link:
+
 https://prezi.com/view/HCYe2ryfVgAJ8KYMURG2/
 
