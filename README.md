@@ -1,6 +1,9 @@
 # HACKVERSE
+To bring together aspiring CHRIST University Lavasa Campus developers and AI/ML enthusiasts to address real-world business problems. By participating in the hackathon, students will gain knowledge of the fundamentals, problem-solving techniques, and applications of Al. Participants must devise a solution and submit it to the judges, audience, and evaluators. To overcome challenges and ensure they have a diverse team, students should form a TEAM OF FOUR with individuals from different backgrounds.
+
 
 **PROBLEM STATEMENT**
+
 Several research on the factors influencing life expectancy have been conducted in the past,
 taking into account demographic demographics, income composition, and mortality rates but, 
 It was discovered that the impact of vaccinations and the human development index had not previously been taken into consideration. 
@@ -24,4 +27,8 @@ to improve its average lifespan?
 7. What is the impact of Immunization coverage on life Expectancy? 
 - Build life expectancy prediction model 
 - Build a simple UI using either flask or Django or any other
+
+
+Presentation for the Analysis can be accesed using the below link:
+https://prezi.com/view/HCYe2ryfVgAJ8KYMURG2/
 
