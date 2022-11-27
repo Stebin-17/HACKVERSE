@@ -59,3 +59,13 @@ https://prezi.com/view/HCYe2ryfVgAJ8KYMURG2/
 
 https://www.canva.com/design/DAFTGsALR7A/ThRuXJi1VC4HHwE940_W2Q/view?utm_content=DAFTGsALR7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+**MODEL DEPLOYMENT**
+Project Structure
+This project has four major parts :
+
+1.life.py - This contains code fot our Machine Learning model to predicting life expectancy based on training data in 'Life_Expectancy_Data' file.
+2.app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
+3.templates - This folder contains the HTML template to allow user to enter employee detail and displays the predicted life expectancy contains after.html and     index.html
+4.Static - Contains all the images used for modelling 
+--Navigate to URL: http://localhost:5000
+
