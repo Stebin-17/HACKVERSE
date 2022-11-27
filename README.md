@@ -70,3 +70,9 @@ This project has four major parts :
 
 Navigate to URL: http://localhost:5000
 
+UI:
+![deployment_1](https://user-images.githubusercontent.com/114398468/204120208-13316811-1e6a-46d8-9961-4bbd6441d917.jpeg)
+RESULT_PAGE:
+![deployment_2](https://user-images.githubusercontent.com/114398468/204120216-3a77a552-1ce2-46ad-9a30-ada1d0e87a18.jpeg)
+
+
