@@ -39,11 +39,23 @@ to improve its average lifespan?
 
 **RESULT AND DISCUSSION**
 
-Presentation for the Analysis can be accessed using the below link:
+The dataset is available in the following website: 
+
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
+The code for EDA and Modeling is in HACKATHON_MODELLING.ipynb and VISUALIZATION.ipynb
+
+
+**PowerBI Dashboard:**
+
+<img width="576" alt="snip of life expectancy" src="https://user-images.githubusercontent.com/114398530/204119732-1acc4c8b-5a5c-421f-9f5c-6909d3740979.png">
+
+
+**Presentation for the Analysis can be accessed using the below link:**
 
 https://prezi.com/view/HCYe2ryfVgAJ8KYMURG2/
 
-Project report for the analysis can be accessed using the below link:
+**Project report for the analysis can be accessed using the below link:**
 
 https://www.canva.com/design/DAFTGsALR7A/ThRuXJi1VC4HHwE940_W2Q/view?utm_content=DAFTGsALR7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
