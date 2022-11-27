@@ -31,6 +31,8 @@ to improve its average lifespan?
 
 
 **METHODOLOGY**
+
+
 ![Beige Colorful Minimal Flowchart Infographic Graph](https://user-images.githubusercontent.com/114398530/204119671-877a3b41-6695-4c92-8d3c-6fca47dda677.png)
 
 
