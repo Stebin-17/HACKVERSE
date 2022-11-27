@@ -30,10 +30,18 @@ to improve its average lifespan?
 - Build a simple UI using either flask or Django or any other
 
 
+**METHODOLOGY**
+![Beige Colorful Minimal Flowchart Infographic Graph](https://user-images.githubusercontent.com/114398530/204119671-877a3b41-6695-4c92-8d3c-6fca47dda677.png)
+
+
 
 **RESULT AND DISCUSSION**
 
-Presentation for the Analysis can be accesed using the below link:
+Presentation for the Analysis can be accessed using the below link:
 
 https://prezi.com/view/HCYe2ryfVgAJ8KYMURG2/
+
+Project report for the analysis can be accessed using the below link:
+
+https://www.canva.com/design/DAFTGsALR7A/ThRuXJi1VC4HHwE940_W2Q/view?utm_content=DAFTGsALR7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
