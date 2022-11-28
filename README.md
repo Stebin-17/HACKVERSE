@@ -1,5 +1,5 @@
 # HACKVERSE
-To bring together aspiring CHRIST University Lavasa Campus developers and AI/ML enthusiasts to address real-world business problems. By participating in the hackathon, students will gain knowledge of the fundamentals, problem-solving techniques, and applications of Al. Participants must devise a solution and submit it to the judges, audience, and evaluators. To overcome challenges and ensure they have a diverse team, students should form a TEAM OF FOUR with individuals from different backgrounds.
+To bring together aspiring developers and AI/ML enthusiasts to address real-world business problems. By participating in the hackathon, students will gain knowledge of the fundamentals, problem-solving techniques, and applications of Al. Participants must devise a solution and submit it to the judges, audience, and evaluators. To overcome challenges and ensure they have a diverse team, students should form a TEAM OF FOUR with individuals from different backgrounds.
 
 
 **PROBLEM STATEMENT**
